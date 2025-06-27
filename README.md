@@ -10,6 +10,11 @@ This project automates the process of extracting book content from online source
 It was built as part of an AI internship challenge to demonstrate AI agent collaboration, human-in-the-loop refinement, and real-world document automation using modern tools.
 
 ---
+## 🎯 Objective
+ Create a system to fetch content from a web URL, apply an AI-driven "spin" to book chapters, and allow multiple human-in-the-loop iterations for editing and finalization.
+
+ 
+---
 
 ## 🧠 Features
 
@@ -22,11 +27,17 @@ It was built as part of an AI internship challenge to demonstrate AI agent colla
 
 ---
 
+## 📂 Project Structure
+
+![Project Structure](https://github.com/user-attachments/assets/7459b8ac-ce73-425b-9a3f-248b6d9edb5e)
+
+---
+
 ## 📸 Screenshots
 
 | Scrape Chapter | AI Rewrite | Review & Edit |
 |----------------|------------|---------------|
-| ![](project_screenshot/scrape_ui.png) | ![](project_screenshot/spin_ai.png) | ![](project_screenshot/review_ui.png) |
+| ![](project_screenshot/scrapeer_ui.png) | ![](project_screenshot/spin_ai.png) | ![](project_screenshot/review_ui.png) |
 
 | View Versions | Semantic Search |
 |---------------|------------------|
@@ -72,10 +83,12 @@ It was built as part of an AI internship challenge to demonstrate AI agent colla
    ```bash
     streamlit run app.py
 
+---
 
-## 📂 Project Structure
+Feel free to reach out for feedback, collaboration, or just to connect:
+- 🔗 [Aniket_Nerkar_gihtub](https://github.com/jasoncobra3)
 
-![Project Structure](https://github.com/user-attachments/assets/7459b8ac-ce73-425b-9a3f-248b6d9edb5e)
+
 
 
 
