@@ -37,7 +37,7 @@ It was built as part of an AI internship challenge to demonstrate AI agent colla
 
 | Scrape Chapter | AI Rewrite | Review & Edit |
 |----------------|------------|---------------|
-| ![](project_screenshot/scraper_ui.png) | ![](project_screenshot/spin_ai.png) | ![](project_screenshot/review_ui.png) |
+| ![](project_screenshots/scraper_ui.png) | ![](project_screenshot/spin_ai.png) | ![](project_screenshot/review_ui.png) |
 
 | View Versions | Semantic Search |
 |---------------|------------------|
