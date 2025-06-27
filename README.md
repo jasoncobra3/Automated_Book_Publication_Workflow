@@ -37,11 +37,11 @@ It was built as part of an AI internship challenge to demonstrate AI agent colla
 
 | Scrape Chapter | AI Rewrite | Review & Edit |
 |----------------|------------|---------------|
-| ![](project_screenshots/scraper_ui.png) | ![](project_screenshot/spin_ai.png) | ![](project_screenshot/review_ui.png) |
+| ![](project_screenshots/scraper_ui.png) | ![](project_screenshots/spin_ai.png) | ![](project_screenshots/review_ui.png) |
 
 | View Versions | Semantic Search |
 |---------------|------------------|
-| ![](project_screenshot/version_table.png) | ![](project_screenshot/semantic_search.png) |
+| ![](project_screenshots/version_table.png) | ![](project_screenshots/semantic_search.png) |
 
 > Screenshots are located in the `project_screenshot/` folder.
 
